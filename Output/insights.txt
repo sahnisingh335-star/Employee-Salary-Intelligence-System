@@ -1,0 +1,5 @@
+It department pays highest salary
+Salary increases with experience
+Gender salary gap is 3057
+High performers avg salary: 48142
+Bangalore has highest average salary
